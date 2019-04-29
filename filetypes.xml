@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="idea快捷键" type="PLAIN_TEXT" />
+      <mapping pattern="application" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
