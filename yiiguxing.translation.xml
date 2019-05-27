@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether the HTTP session is allowed to be created." />
+      <item value="The name of the attribute under which the HTTP session id is exposed" />
       <item value="Configure interceptors for the handshake request." />
       <item value="Configure a WebSocketHandler at the specified URL paths." />
       <item value="Defines callback methods to configure the WebSocket request handling" />
@@ -49,13 +51,11 @@
       <item value="Opens a communications link to the resource referenced by this * URL, if such a connection has not already been established. * &lt;p&gt; * If the {@code connect} method is called when the connection * has already been opened (indicated by the {@code connected} * field having the value {@code true}), the call is ignored. * &lt;p&gt; * URLConnection objects go through two phases: first they are * created, then they are connected. After being created, and * before being connected, various options can be specified * (e.g., doInput and UseCaches). After connecting, it is an * error to try to set them. Operations that depend on being * connected, like getContentLength, will implicitly perform the * connection, if necessary." />
       <item value="an input stream that reads from this open connection." />
       <item value="* The abstract class {@code URLConnection} is the superclass * of all classes that represent a communications link between the * application and a URL. Instances of this class can be used both to * read from and to write to the resource referenced by the URL. In * general, creating a connection to a URL is a multistep process:" />
-      <item value="Returns an input stream that reads from this open connection. * * A SocketTimeoutException can be thrown when reading from the * returned input stream if the read timeout expires before data * is available for read." />
-      <item value="Annotation Aware Aspect J Auto Proxy Creator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
