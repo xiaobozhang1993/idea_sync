@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="efines callback methods to configure the WebSocket request handling" />
       <item value="The name of the argument in the advice signature to bind the returned value to" />
       <item value="Aspect" />
       <item value="Whether the HTTP session is allowed to be created." />
@@ -50,12 +51,11 @@
       <item value="@deprecated As of Version 2.2, this method is * replaced by {@link #setAttribute} * * @param name the name to which the object is bound; * cannot be null * * @param value the object to be bound; cannot be null" />
       <item value="/* * Copyright 2001-2004 The Apache Software Foundation. * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. */" />
       <item value="Get the next value. The value can be a Boolean, Double, Integer, * JSONArray, JSONObject, Long, or String, or the JSONObject.NULL object." />
-      <item value="Opens a communications link to the resource referenced by this * URL, if such a connection has not already been established. * &lt;p&gt; * If the {@code connect} method is called when the connection * has already been opened (indicated by the {@code connected} * field having the value {@code true}), the call is ignored. * &lt;p&gt; * URLConnection objects go through two phases: first they are * created, then they are connected. After being created, and * before being connected, various options can be specified * (e.g., doInput and UseCaches). After connecting, it is an * error to try to set them. Operations that depend on being * connected, like getContentLength, will implicitly perform the * connection, if necessary." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
