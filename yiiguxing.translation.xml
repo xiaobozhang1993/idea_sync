@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configure interceptors for the handshake request." />
+      <item value="Configure a WebSocketHandler at the specified URL paths." />
+      <item value="Defines callback methods to configure the WebSocket request handling" />
+      <item value="A handler for WebSocket messages and lifecycle events" />
+      <item value="All other methods have empty implementations." />
+      <item value="Binary messages are rejected with" />
       <item value="Returns the value of the given calendar field. In lenient mode, * all calendar fields are normalized. In non-lenient mode, all * calendar fields are validated and this method throws an * exception if any calendar fields have out-of-range values. The * normalization and validation are handled by the" />
       <item value="iterable" />
       <item value="Invalid" />
@@ -45,17 +51,11 @@
       <item value="* The abstract class {@code URLConnection} is the superclass * of all classes that represent a communications link between the * application and a URL. Instances of this class can be used both to * read from and to write to the resource referenced by the URL. In * general, creating a connection to a URL is a multistep process:" />
       <item value="Returns an input stream that reads from this open connection. * * A SocketTimeoutException can be thrown when reading from the * returned input stream if the read timeout expires before data * is available for read." />
       <item value="Annotation Aware Aspect J Auto Proxy Creator" />
-      <item value="Returns a {@code String} object representing this * {@code Long}'s value. The value is converted to signed * decimal representation and returned as a string, exactly as if * the {@code long} value were given as an argument to the * {@link java.lang.Long#toString(long)} method." />
-      <item value="Returns the current time in milliseconds. Note that * while the unit of time of the return value is a millisecond, * the granularity of the value depends on the underlying * operating system and may be larger. For example, many * operating systems measure time in units of tens of * milliseconds. * * &lt;p&gt; See the description of the class &lt;code&gt;Date&lt;/code&gt; for * a discussion of slight discrepancies that may arise between * &quot;computer time&quot; and coordinated universal time (UTC). * * @return the difference, measured in milliseconds, between * the current time and midnight, January 1, 1970 UTC." />
-      <item value="Scans the classpath for annotated components that will be auto-registered as Spring beans. By default, the Spring-provided @Component, @Repository, @Service, and @Controller stereotypes will be detected. Note: This tag implies the effects of the 'annotation-config' tag, activating @Required, @Autowired, @PostConstruct, @PreDestroy, @Resource, @PersistenceContext and @PersistenceUnit annotations in the component classes, which is usually desired for autodetected components (without external configuration). Turn off the 'annotation-config' attribute to deactivate this default behavior, for example in order to use custom BeanPostProcessor definitions for handling those annotations. Note: You may use placeholders in package paths, but only resolved against system properties (analogous to resource paths). A component scan results in new bean definition being registered; Spring's PropertyPlaceholderConfigurer will apply to those bean definitions just like to regular bean definitions, but it won't apply to the component scan settings themselves." />
-      <item value="Monitoring" />
-      <item value="Returns an array of the kinds of elements an annotation type * can be applied to. * @return an array of the kinds of elements an annotation type * can be applied to" />
-      <item value="* Indicates that an annotation type is automatically inherited. If * an Inherited meta-annotation is present on an annotation type * declaration, and the user queries the annotation type on a class * declaration, and the class declaration has no annotation for this type, * then the class's superclass will automatically be queried for the * annotation type. This process will be repeated until an annotation for this * type is found, or the top of the class hierarchy (Object) * is reached. If no superclass has an annotation for this type, then * the query will indicate that the class in question has no such annotation. * * &lt;p&gt;Note that this meta-annotation type has no effect if the annotated * type is used to annotate anything other than a class. Note also * that this meta-annotation only causes annotations to be inherited * from superclasses; annotations on implemented interfaces have no" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
