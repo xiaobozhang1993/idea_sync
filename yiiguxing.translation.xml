@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clazz" />
       <item value="produce" />
       <item value="Fetching" />
       <item value="Return a reference a RemoteEndpoint object representing the peer of this conversation" />
@@ -50,12 +51,11 @@
       <item value="Performs a login attempt for this Subject/user. If unsuccessful, * an {@link AuthenticationException} is thrown, the subclass of which identifies why the attempt failed. * If successful, the account data associated with the submitted principals/credentials will be * associated with this {@code Subject} and the method will return quietly. * &lt;p/&gt; * Upon returning quietly, this {@code Subject} instance can be considered * authenticated and {@link #getPrincipal() getPrincipal()} will be non-null and" />
       <item value="Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=true]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
       <item value="Returns the context path of the web application. * * &lt;p&gt;The context path is the portion of the request URI that is used * to select the context of the request. The context path always comes * first in a request URI. The path starts with a &quot;/&quot; character but does * not end with a &quot;/&quot; character. For servlets in the default (root) * context, this method returns &quot;&quot;. * * &lt;p&gt;It is possible that a servlet container may match a context by * more than one context path. In such cases the * {@link javax.servlet.http.HttpServletRequest#getContextPath()} * will return the actual context path used by the request and it may * differ from the path returned by this method. * The context path returned by this method should be considered as the * prime or preferred context path of the application. * * @return The context path of the web application, or &quot;&quot; for the * default (root) context" />
-      <item value="/** * Returns a &lt;code&gt;String&lt;/code&gt; containing the real path * for a given virtual path. For example, the path &quot;/index.html&quot; * returns the absolute file path on the server's filesystem would be * served by a request for &quot;http://host/contextPath/index.html&quot;, * where contextPath is the context path of this ServletContext.. * * &lt;p&gt;The real path returned will be in a form * appropriate to the computer and operating system on * which the servlet container is running, including the * proper path separators. This method returns &lt;code&gt;null&lt;/code&gt; * if the servlet container cannot translate the virtual path * to a real path for any reason (such as when the content is * being made available from a &lt;code&gt;.war&lt;/code&gt; archive). * * * @param path a &lt;code&gt;String&lt;/code&gt; specifying a virtual path * * * @return a &lt;code&gt;String&lt;/code&gt; specifying the real path, * or null if the translation cannot be performed * * */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
