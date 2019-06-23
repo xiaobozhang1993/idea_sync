@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomically increments by one the current value." />
+      <item value="A {@code long} value that may be updated atomically. See the * {@link java.util.concurrent.atomic} package specification for * description of the properties of atomic variables. An * {@code AtomicLong} is used in applications such as atomically * incremented sequence numbers, and cannot be used as a replacement * for a {@link java.lang.Long}. However, this class does extend * {@code Number} to allow uniform access by tools and utilities that * deal with numerically-based classes." />
       <item value="clazz" />
       <item value="produce" />
       <item value="Fetching" />
@@ -49,13 +51,11 @@
       <item value="Returns the currently accessible {@code Subject} available to the calling code depending on * runtime environment. * &lt;p/&gt; * This method is provided as a way of obtaining a {@code Subject} without having to resort to * implementation-specific methods. It also allows the Shiro team to change the underlying implementation of * this method in the future depending on requirements/updates without affecting your code that uses it." />
       <item value="Accesses the currently accessible {@code Subject} for the calling code depending on runtime environment." />
       <item value="Performs a login attempt for this Subject/user. If unsuccessful, * an {@link AuthenticationException} is thrown, the subclass of which identifies why the attempt failed. * If successful, the account data associated with the submitted principals/credentials will be * associated with this {@code Subject} and the method will return quietly. * &lt;p/&gt; * Upon returning quietly, this {@code Subject} instance can be considered * authenticated and {@link #getPrincipal() getPrincipal()} will be non-null and" />
-      <item value="Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=true]. Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException)." />
-      <item value="Returns the context path of the web application. * * &lt;p&gt;The context path is the portion of the request URI that is used * to select the context of the request. The context path always comes * first in a request URI. The path starts with a &quot;/&quot; character but does * not end with a &quot;/&quot; character. For servlets in the default (root) * context, this method returns &quot;&quot;. * * &lt;p&gt;It is possible that a servlet container may match a context by * more than one context path. In such cases the * {@link javax.servlet.http.HttpServletRequest#getContextPath()} * will return the actual context path used by the request and it may * differ from the path returned by this method. * The context path returned by this method should be considered as the * prime or preferred context path of the application. * * @return The context path of the web application, or &quot;&quot; for the * default (root) context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
