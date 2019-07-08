@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Executes the given {@link HttpMethod HTTP method}. * * @param method the {@link HttpMethod HTTP method} to execute. * @return the method's response code * * @throws IOException If an I/O (transport) error occurs. Some transport exceptions * can be recovered from. * @throws HttpException If a protocol exception occurs. Usually protocol exceptions * cannot be recovered from." />
+      <item value="&lt;p&gt;A simple class encapsulating a name/value pair.&lt;/p&gt; * * @author &lt;a href=&quot;mailto:bcholmes@interlog.com&quot;&gt;B.C. Holmes&lt;/a&gt; * @author Sean C. Sullivan * @author &lt;a href=&quot;mailto:mbowler@GargoyleSoftware.com&quot;&gt;Mike Bowler&lt;/a&gt; * * @version $Revision: 480424 $ $Date: 2006-11-29 06:56:49 +0100 (Wed, 29 Nov 2006) $" />
       <item value="Returns a string whose value is this string, with any leading and trailing * whitespace removed." />
       <item value="If the specified key is not already associated with a value, * attempts to compute its value using the given mapping function * and enters it into this map unless {@code null}. The entire * method invocation is performed atomically, so the function is * applied at most once per key. Some attempted update operations * on this map by other threads may be blocked while computation * is in progress, so the computation should be short and simple, * and must not attempt to update any other mappings of this map." />
       <item value="This class is usually preferable to {@link AtomicLong} when * multiple threads update a common sum that is used for purposes such * as collecting statistics, not for fine-grained synchronization * control. Under low update contention, the two classes have similar * characteristics. But under high contention, expected throughput of * this class is significantly higher, at the expense of higher space * consumption." />
@@ -49,13 +51,11 @@
       <item value="Pluggable" />
       <item value="An Authenticator is responsible for authenticating accounts in an application. It * is one of the primary entry points into the Shiro API." />
       <item value="primary" />
-      <item value="Authenticates a user based on the submitted" />
-      <item value="* Authenticates a user based on the submitted {@code AuthenticationToken}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
