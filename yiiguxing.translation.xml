@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calculates the MD5 digest and returns the value as a 32 character hex string." />
       <item value="Executes the given {@link HttpMethod HTTP method}. * * @param method the {@link HttpMethod HTTP method} to execute. * @return the method's response code * * @throws IOException If an I/O (transport) error occurs. Some transport exceptions * can be recovered from. * @throws HttpException If a protocol exception occurs. Usually protocol exceptions * cannot be recovered from." />
       <item value="&lt;p&gt;A simple class encapsulating a name/value pair.&lt;/p&gt; * * @author &lt;a href=&quot;mailto:bcholmes@interlog.com&quot;&gt;B.C. Holmes&lt;/a&gt; * @author Sean C. Sullivan * @author &lt;a href=&quot;mailto:mbowler@GargoyleSoftware.com&quot;&gt;Mike Bowler&lt;/a&gt; * * @version $Revision: 480424 $ $Date: 2006-11-29 06:56:49 +0100 (Wed, 29 Nov 2006) $" />
       <item value="Returns a string whose value is this string, with any leading and trailing * whitespace removed." />
@@ -50,12 +51,11 @@
       <item value="if there is any problem during the authentication process." />
       <item value="Pluggable" />
       <item value="An Authenticator is responsible for authenticating accounts in an application. It * is one of the primary entry points into the Shiro API." />
-      <item value="primary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
