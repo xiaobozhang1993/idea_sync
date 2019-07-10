@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an image which gets pixel data from the specified URL. * The pixel data referenced by the specified URL must be in one * of the following formats: GIF, JPEG or PNG. * The underlying toolkit attempts to resolve multiple requests * with the same URL to the same returned Image." />
+      <item value="Returns an image which gets pixel data from the specified URL. * The pixel data referenced by the specified URL must be in one * of the following formats: GIF, JPEG or PNG." />
       <item value="Invoked when an action occurs." />
       <item value="Sets the position of the text insertion caret for the" />
       <item value="caret" />
@@ -49,13 +51,11 @@
       <item value="The pointcut expression where to bind the advice" />
       <item value="Illegal" />
       <item value="Performs the authentication attempt by interacting with the single configured realm, which is significantly" />
-      <item value="Attempts to authenticate the given token by iterating over the internal collection of" />
-      <item value="Realize an * implementation of this interface may or may not throw those listed or may * throw other AuthenticationExceptions, but the list shows the most common ones." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
