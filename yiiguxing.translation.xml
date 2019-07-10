@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the position of the text insertion caret for the" />
+      <item value="caret" />
       <item value="milliseconds for the initial and between-event delay" />
       <item value="Creates a {@code Timer} and initializes both the initial delay and * between-event delay to {@code delay} milliseconds. If {@code delay} * is less than or equal to zero, the timer fires as soon as it * is started. If &lt;code&gt;listener&lt;/code&gt; is not &lt;code&gt;null&lt;/code&gt;, * it's registered as an action listener on the timer." />
       <item value="Allocates a new {@code String} that contains characters from a subarray * of the character array argument. The {@code offset} argument is the * index of the first character of the subarray and the {@code count} * argument specifies the length of the subarray. The contents of the * subarray are copied; subsequent modification of the character array does * not affect the newly created string." />
@@ -49,14 +51,13 @@
       <item value="Attempts to authenticate the given token by iterating over the internal collection of" />
       <item value="Realize an * implementation of this interface may or may not throw those listed or may * throw other AuthenticationExceptions, but the list shows the most common ones." />
       <item value="ealize an * implementation of this interface may or may not throw those listed or may * throw other AuthenticationExceptions, but the list shows the most common ones" />
-      <item value="in order to accurately handle these problems and to notify the user in an * appropriate manner why the authentication attempt failed" />
-      <item value="See the specific exceptions listed below to as examples of what could happen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CATALAN" value="2" />
+        <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
