@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds for the initial and between-event delay" />
+      <item value="Creates a {@code Timer} and initializes both the initial delay and * between-event delay to {@code delay} milliseconds. If {@code delay} * is less than or equal to zero, the timer fires as soon as it * is started. If &lt;code&gt;listener&lt;/code&gt; is not &lt;code&gt;null&lt;/code&gt;, * it's registered as an action listener on the timer." />
       <item value="Allocates a new {@code String} that contains characters from a subarray * of the character array argument. The {@code offset} argument is the * index of the first character of the subarray and the {@code count} * argument specifies the length of the subarray. The contents of the * subarray are copied; subsequent modification of the character array does * not affect the newly created string." />
       <item value="Calculates the MD5 digest and returns the value as a 32 character hex string." />
       <item value="Executes the given {@link HttpMethod HTTP method}. * * @param method the {@link HttpMethod HTTP method} to execute. * @return the method's response code * * @throws IOException If an I/O (transport) error occurs. Some transport exceptions * can be recovered from. * @throws HttpException If a protocol exception occurs. Usually protocol exceptions * cannot be recovered from." />
@@ -49,13 +51,11 @@
       <item value="ealize an * implementation of this interface may or may not throw those listed or may * throw other AuthenticationExceptions, but the list shows the most common ones" />
       <item value="in order to accurately handle these problems and to notify the user in an * appropriate manner why the authentication attempt failed" />
       <item value="See the specific exceptions listed below to as examples of what could happen" />
-      <item value="if there is any problem during the authentication process." />
-      <item value="Pluggable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CATALAN" value="2" />
       </map>
     </option>
