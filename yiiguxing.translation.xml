@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instances of this class support both reading and writing to a * random access file. A random access file behaves like a large * array of bytes stored in the file system. There is a kind of cursor, * or index into the implied array, called the &lt;em&gt;file pointer&lt;/em&gt;; * input operations read bytes starting at the file pointer and advance * the file pointer past the bytes read. If the random access file is * created in read/write mode, then output operations are also available; * output operations write bytes starting at the file pointer and advance * the file pointer past the bytes written. Output operations that write * past the current end of the implied array cause the array to be * extended. The file pointer can be read by the" />
       <item value="Returns an image which gets pixel data from the specified URL. * The pixel data referenced by the specified URL must be in one * of the following formats: GIF, JPEG or PNG. * The underlying toolkit attempts to resolve multiple requests * with the same URL to the same returned Image." />
       <item value="Returns an image which gets pixel data from the specified URL. * The pixel data referenced by the specified URL must be in one * of the following formats: GIF, JPEG or PNG." />
       <item value="Invoked when an action occurs." />
@@ -50,7 +51,6 @@
       <item value="When compiling without debug info, or when interpreting pointcuts at runtime, * the names of any arguments used in the advice declaration are not available. * Under these circumstances only, it is necessary to provide the arg names in * the annotation - these MUST duplicate the names used in the annotated method. * Format is a simple comma-separated list." />
       <item value="The pointcut expression where to bind the advice" />
       <item value="Illegal" />
-      <item value="Performs the authentication attempt by interacting with the single configured realm, which is significantly" />
     </histories>
     <option name="languageScores">
       <map>
