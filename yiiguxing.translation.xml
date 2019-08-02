@@ -1,7 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a matcher that will match the given input against this pattern." />
+      <item value="Replaces each substring of this string that matches the literal target * sequence with the specified literal replacement sequence. The * replacement proceeds from the beginning of the string to the end, for * example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in * &quot;ba&quot; rather than &quot;ab&quot;." />
       <item value="ost" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
   </component>
 </application>
