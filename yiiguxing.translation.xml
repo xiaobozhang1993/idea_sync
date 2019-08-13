@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serializability of a class is enabled by the class implementing the * java.io.Serializable interface. Classes that do not implement this * interface will not have any of their state serialized or * deserialized. All subtypes of a serializable class are themselves * serializable. The serialization interface has no methods or fields * and serves only to identify the semantics of being serializable." />
       <item value="Creates a matcher that will match the given input against this pattern." />
       <item value="Replaces each substring of this string that matches the literal target * sequence with the specified literal replacement sequence. The * replacement proceeds from the beginning of the string to the end, for * example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in * &quot;ba&quot; rather than &quot;ab&quot;." />
       <item value="ost" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
