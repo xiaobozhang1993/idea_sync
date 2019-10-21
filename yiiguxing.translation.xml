@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consider" />
       <item value="The name of the service with optional protocol prefix. Synonym for {@link #name() * name}. A name must be specified for all clients, whether or not a url is provided. * Can be specified as property key, eg: ${propertyKey}." />
       <item value="Represents an operation that accepts a single input argument and returns no * result. Unlike most other functional interfaces, {@code Consumer} is expected * to operate via side-effects." />
       <item value="Serializability of a class is enabled by the class implementing the * java.io.Serializable interface. Classes that do not implement this * interface will not have any of their state serialized or * deserialized. All subtypes of a serializable class are themselves * serializable. The serialization interface has no methods or fields * and serves only to identify the semantics of being serializable." />
@@ -11,7 +12,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
