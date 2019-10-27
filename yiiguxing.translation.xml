@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INFO" />
       <item value="implementation" />
       <item value="bound" />
       <item value="Return the RequestAttributes currently bound to the thread. * @return the RequestAttributes currently bound to the thread, * or {@code null} if none bound" />
