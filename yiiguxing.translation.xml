@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Requires the current executor's Subject to imply a particular permission in * order to execute the annotated method. If the executor's associated" />
       <item value="three" />
       <item value="大写" />
       <item value="拖拽排序" />
@@ -28,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
