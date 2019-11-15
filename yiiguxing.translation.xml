@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="api Ticket Url" />
+      <item value="Chain Definition" />
       <item value="resolve Argument" />
       <item value="Requires the current executor's Subject to imply a particular permission in * order to execute the annotated method. If the executor's associated" />
       <item value="three" />
@@ -30,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
