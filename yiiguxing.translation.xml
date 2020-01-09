@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列" />
       <item value="Subclasses must implement this method to perform the actual configuration load. * The method is invoked by {@link #refresh()} before any other initialization work. * &lt;p&gt;A subclass will either create a new bean factory and hold a reference to it, * or return a single BeanFactory instance that it holds. In the latter case, it will * usually throw an IllegalStateException if refreshing the context more than once. * @throws BeansException if initialization of the bean factory failed * @throws IllegalStateException if already initialized and multiple refresh" />
       <item value="api Ticket Url" />
       <item value="Chain Definition" />
@@ -33,7 +34,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
       </map>
     </option>
