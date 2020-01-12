@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The enumeration value indicating horizontal alignment of a cell, * i.e., whether it is aligned general, left, right, horizontally centered, filled (replicated), * justified, centered across multiple cells, or distributed." />
       <item value="com.alibaba.excel.exception.ExcelCommonException: The index of 'parentName' and 'name' must be inconsistent" />
       <item value="inconsistent" />
       <item value="列" />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
