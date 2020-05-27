@@ -6,6 +6,10 @@
           <option name="url" value="http://codehub.devcloud.huaweicloud.com" />
           <option name="userName" value="jfh_13325455396/zhangxiaobo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="1920969038@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
